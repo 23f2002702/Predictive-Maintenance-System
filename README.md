@@ -78,7 +78,7 @@ These variables are used to identify patterns associated with equipment failure 
 * Risk-related features
 * Statistical feature generation
 
-### 4. Machine Learning Modeling
+### 4. Planned Models
 
 * Logistic Regression
 * Decision Tree
@@ -146,17 +146,17 @@ These variables are used to identify patterns associated with equipment failure 
 ```text
 Predictive-Maintenance-System/
 │
-├── Dashborad
+├── dashboard
 │
-├── Data
+├── data
 │
-├── Notebooks
+├── notebooks
 │
-├── Research
+├── research
 │
-├── Results
+├── results
 │
-├── SRC
+├── src
 │ 
 ├── README.md
 │
