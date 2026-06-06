@@ -22,7 +22,7 @@ Predictive Maintenance offers an alternative strategy by using machine data to e
 
 ## Research Problem
 
-Can machine failure be predicted accurately using operational sensor data collected from manufacturing equipment?
+Can operational sensor measurements be used to predict machine failures and support cost-effective maintenance decision-making in manufacturing environments?
 
 ---
 
